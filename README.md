@@ -1,4 +1,3 @@
-eweisman.github.io
-==================
+# My personal github pag3
 
-my project
+This was for the intro class
